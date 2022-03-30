@@ -1,0 +1,7 @@
+C:\Users\Eriettaki\source\repos\I_Am_The_Start_and_The_EnD\Private_School_Managment\obj\Debug\Private_School_Managment.csproj.AssemblyReference.cache
+C:\Users\Eriettaki\source\repos\I_Am_The_Start_and_The_EnD\Private_School_Managment\obj\Debug\Private_School_Managment.csproj.CoreCompileInputs.cache
+C:\Users\Eriettaki\source\repos\I_Am_The_Start_and_The_EnD\Private_School_Managment\bin\Debug\Private_School_Managment.exe.config
+C:\Users\Eriettaki\source\repos\I_Am_The_Start_and_The_EnD\Private_School_Managment\bin\Debug\Private_School_Managment.exe
+C:\Users\Eriettaki\source\repos\I_Am_The_Start_and_The_EnD\Private_School_Managment\bin\Debug\Private_School_Managment.pdb
+C:\Users\Eriettaki\source\repos\I_Am_The_Start_and_The_EnD\Private_School_Managment\obj\Debug\Private_School_Managment.exe
+C:\Users\Eriettaki\source\repos\I_Am_The_Start_and_The_EnD\Private_School_Managment\obj\Debug\Private_School_Managment.pdb
